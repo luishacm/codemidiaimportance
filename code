@@ -1,8 +1,11 @@
-#In this file there are three separated codes, but they all follow the same logic.
+#In this file, there are three separated codes, but they all follow the same logic.
 ##For the code to work you need to create a folder for each code and inside this folder another two folders 
-## one called "arquivos" where you will put a TXT called "linkdasimagens" and another folder called "Imagens" 
-## where you will put several folders according to the years of you research
-## Example, if you are research between 2013 and 2015, you will create 3 folders inside "Imagens" called "2013", "2014" and "2015".
+## one called "arquivos" where you will put a TXT called "linkdasimagens" and another folder named "Imagens" 
+## where you will set several folders according to the years of your research
+## Example, if you are researching between 2013 and 2015, you will create three folders inside "Imagens" called "2013", "2014" and "2015".
+### These codes were made to a specific website if this website changes the code will stop working, and it will need to be adapted
+### To use this, the user needs to have a minimum knowledge of programming.
+
 
 #Code that works for the website https://acervo.estadao.com.br/
 
